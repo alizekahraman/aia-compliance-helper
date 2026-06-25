@@ -79,14 +79,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "EU AI Act Compliance Helper" },
+      { name: "description", content: "AI Compliance Navigator helps organizations understand and implement the EU AI Act by generating actionable compliance roadmaps." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "EU AI Act Compliance Helper" },
+      { property: "og:description", content: "AI Compliance Navigator helps organizations understand and implement the EU AI Act by generating actionable compliance roadmaps." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "EU AI Act Compliance Helper" },
+      { name: "twitter:description", content: "AI Compliance Navigator helps organizations understand and implement the EU AI Act by generating actionable compliance roadmaps." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c47f739d-4ea5-408f-9db8-f43743fefca7/id-preview-40ca166f--b646cbb3-ba07-4fa8-9dc7-240b523ec47c.lovable.app-1782396735554.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c47f739d-4ea5-408f-9db8-f43743fefca7/id-preview-40ca166f--b646cbb3-ba07-4fa8-9dc7-240b523ec47c.lovable.app-1782396735554.png" },
     ],
     links: [
       {
