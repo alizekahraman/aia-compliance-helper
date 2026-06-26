@@ -48,7 +48,7 @@ Think of it as a compliance consultant that works at 2 AM and never charges by t
 
 ## Screenshots
 
-> _Replace these placeholders with real screenshots after first run._
+> TBD
 
 <table>
   <tr>
